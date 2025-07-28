@@ -2,6 +2,7 @@ Dependencies
 
 Software versions for each library are defined in the package.json file.
 Latest version of node is preferable.
+Make sure to npm install in the folder as well as installing all the required packages.
 
 Setup
 
