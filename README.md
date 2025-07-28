@@ -1,8 +1,5 @@
 Dependencies
 
-Make sure to use all the latest software versions for:
-- Sequelize
-- Express
-- Vite
-- React
-- TailwindCSS
+Software versions for each library are defined in the package.json file.
+Latest version of node is preferable.
+
